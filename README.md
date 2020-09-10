@@ -6,10 +6,10 @@
 Class 3 Practice Exercises
 
 ### README Table Of Contents
-1. [Code](https://espn.com)
-2. [Data](https://www.infinigift.com)
-3. [Images](https://charlotteobserver.com)
-4. [References](https://inquirer.com)
+1. [Code](Code/)
+2. [Data](Data/)
+3. [Images](Images/)
+4. [References](References/)
 
 I'm Aaron Galloway, founder and CEO of InfiniGift, and a current student in the August cohort of the UNCC FinTech Bootcamp
 
