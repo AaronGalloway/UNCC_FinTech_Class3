@@ -1,5 +1,15 @@
 # UNCC_FinTech_Class3
+
+![A Panther](https://en.wikipedia.org/wiki/Black_panther#/media/File:Blackleopard.JPG "A Panther")
+
+## README Description
 Class 3 Practice Exercises
+
+### README Table Of Contents
+1. [Code](https://espn.com)
+2. [Data](https://www.infinigift.com)
+3. [Images](https://charlotteobserver.com)
+4. [References](https://inquirer.com)
 
 I'm Aaron Galloway, founder and CEO of InfiniGift, and a current student in the August cohort of the UNCC FinTech Bootcamp
 
